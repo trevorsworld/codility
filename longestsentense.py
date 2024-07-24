@@ -28,5 +28,5 @@ def solution(S):
 S1 = "We test coders. Give us a try?"
 S2 = "Forget CVs.. Save time . x x"
 
-print(solution(S1))  # Output: 4
-print(solution(S2))  # Output: 2
+print(solution(S1))
+# print(solution(S2))
